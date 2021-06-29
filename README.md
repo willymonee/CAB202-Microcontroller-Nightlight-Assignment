@@ -1,6 +1,6 @@
 # CAB202-Microcontroller-Nightlight-Assignment
 
-Task: Invent, design, implement a prototype of a microntroller-based product/application which performs a meaningful service and carry out a specific useful function, developed using TinkerCad Circuits, and coded in AVR C for an Arduino UNO microcontroller. The chosen application was a nightlight. 
+**Task** Invent, design, implement a prototype of a microntroller-based product/application which performs a meaningful service and carry out a specific useful function, developed using TinkerCad Circuits, and coded in AVR C for an Arduino UNO microcontroller. The chosen application was a nightlight. 
 
 **Functionality**
 Serial I/O – UART is used for serial input and output. Serial output is used to display instructions or feedback user via the console such as ‘enter the amount of time’. Serial input allows the user to input the amount of time they wish the nightlight to be on, enclosed in quotation marks e.g. “10”, via the console. 
